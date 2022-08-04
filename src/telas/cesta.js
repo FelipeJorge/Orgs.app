@@ -18,8 +18,7 @@ export default function Cesta (){
             <Text style={estilos.nomeFazenda}>Jenny Jack Farm</Text>
         </View>
         <Text style={estilos.descricao}>
-            Uma cesta com produdos selecionados
-            com produtos selecionados cuidadosamente
+            Uma cesta com produdos selecionados cuidadosamente
             da fazenda direto para a sua cozinha
         </Text>
         <Text style={estilos.preco}> R$ 40,00</Text>
